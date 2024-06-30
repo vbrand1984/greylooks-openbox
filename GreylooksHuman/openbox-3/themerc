@@ -1,7 +1,7 @@
 ! vim: ft=ob3 fdm=marker
 
 !!
-!! Greylooks theme for Openbox3 window manager
+!! GreylooksHuman theme for Openbox3 window manager
 !!
 !! The themerc file is created by Victor Brand
 !! The assets are borrowed mostly from BunsenLabs:
@@ -64,22 +64,22 @@ window.active.button.unpressed.bg:                  parentrelative
 window.active.button.pressed.bg:                    parentrelative
 window.active.button.disabled.bg:                   parentrelative
 window.active.button.hover.bg:                      flat solid  
-window.active.button.hover.bg.color:                #828388
+window.active.button.hover.bg.color:                #8b8372
 !! Active window buttons colors
 window.active.button.unpressed.image.color:         #1a1b1c
 window.active.button.hover.image.color:             #f0eee4
-window.active.button.pressed.image.color:           #828388
+window.active.button.pressed.image.color:           #8b8372
 window.active.button.disabled.image.color:          #9c9d9b
 
 !! Active window toggled buttons background
 window.active.button.toggled.unpressed.bg:          parentrelative
 window.active.button.toggled.pressed.bg:            parentrelative
 window.active.button.toggled.hover.bg:              flat solid
-window.active.button.toggled.hover.bg.color:        #828388
+window.active.button.toggled.hover.bg.color:        #8b8372
 !! Active toggled window buttons colors
 window.active.button.toggled.unpressed.image.color: #1a1b1c
 window.active.button.toggled.hover.image.color:     #f0eee4
-window.active.button.toggled.pressed.image.color:   #828388
+window.active.button.toggled.pressed.image.color:   #8b8372
 
 !! }}}
 !! {{{ Inactive window settings
@@ -126,9 +126,9 @@ menu.bullet.image.color:                            #080808
 
 !! Active item
 menu.items.active.bg:                               flat gradient vertical border
-menu.items.active.bg.color:                         #828388
-menu.items.active.bg.colorTo:                       #737478
-menu.items.active.bg.border.color:                  #4c4c4e
+menu.items.active.bg.color:                         #8b8372
+menu.items.active.bg.colorTo:                       #797366
+menu.items.active.bg.border.color:                  #4d4b45
 menu.items.active.text.color:                       #f5f3ef
 menu.bullet.selected.image.color:                   #f5f3ef
 
@@ -190,8 +190,8 @@ osd.button.pressed.bg.colorTo:                      #c3beb4
 
 !! Highlighted background
 osd.hilight.bg:                                     flat gradient vertical
-osd.hilight.bg.color:                               #828388
-osd.hilight.bg.colorTo:                             #737478
+osd.hilight.bg.color:                               #8b8372
+osd.hilight.bg.colorTo:                             #797366
 
 !! Unhighlighted background
 osd.unhilight.bg:                                   flat solid
