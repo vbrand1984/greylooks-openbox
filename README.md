@@ -7,7 +7,7 @@ These themes are designed to be consistent with the corresponding [Greylooks GTK
 Also, check my [vim syntax highlighting plugin for Openbox themes](https://github.com/vbrand1984/ob3-vim-syntax), if you're interested in creating and modifying these themes.
 
 ## Version history
-# 2026-01-04 Update
+### 2026-01-04 Update
 1. Color hues were slightly changed while preserving the whole idea, vibe and atmosphere of the theme.
 2. Purple and Sand colour variants are added.
 3. Window titlebars are now coloured for the vanilla Greylooks Openbox theme pack.
