@@ -11,7 +11,7 @@ Also, check my [vim syntax highlighting plugin for Openbox themes](https://githu
 1. Color hues were slightly changed while preserving the whole idea, vibe and atmosphere of the theme.
 2. Purple and Sand colour variants are added.
 3. Window titlebars are now coloured for the vanilla Greylooks Openbox theme pack.
-4. Actual theme version with flat (non-coloured) window titlebars is now available in a [separate repository `flatlooks-openbox`](https://github.com/vbrand1984/flatlooks-openbox).
+4. Actual theme version with flat (non-coloured) window titlebars is now available in a separate repository [`flatlooks-openbox`](https://github.com/vbrand1984/flatlooks-openbox).
 
 ## Author
 The author of the `themerc` files is Victor Brand. Button assets are borrowed elsewhere, mostly from the [BunsenLabs](https://github.com/BunsenLabs/bunsen-themes
