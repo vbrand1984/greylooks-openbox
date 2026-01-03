@@ -1,7 +1,7 @@
 ! vim: fdm=marker ts=4 noet ft=ob3
 
 !!
-!! GreylooksGreen theme for Openbox3 window manager
+!! GreylooksPurple theme for Openbox3 window manager
 !!
 !! The themerc file is created by Victor Brand
 !! The assets are borrowed mostly from BunsenLabs:
@@ -47,15 +47,15 @@ window.*.grip.bg:								parentrelative
 
 !! Title background
 window.active.title.bg:							raised gradient splitvertical
-window.active.title.bg.color.splitTo:			#929a88
-window.active.title.bg.color:					#868d7c
-window.active.title.bg.colorTo:					#838a7a
-window.active.title.bg.colorTo.splitTo:			#7e8576
+window.active.title.bg.color.splitTo:			#978c91
+window.active.title.bg.color:					#8b8185
+window.active.title.bg.colorTo:					#887e82
+window.active.title.bg.colorTo.splitTo:			#83797d
 window.active.title.bg.highlight:				64 
 window.active.title.bg.shadow:					32
 
 !! Separator color
-window.active.title.separator.color:			#6f7568
+window.active.title.separator.color:			#736a6e
 
 !! Label background and text
 window.*.label.bg:								parentrelative
@@ -92,10 +92,10 @@ window.*.button.*.hover.bg:						flat solid
 
 !! Hover: Active window
 window.active.button.*.hover.bg.color:			#d9d6cf
-window.active.button.*.hover.image.color:		#838a7a
+window.active.button.*.hover.image.color:		#887e82
 
 !! Hover: Inactive window
-window.inactive.button.*.hover.bg.color:		#838a7a
+window.inactive.button.*.hover.bg.color:		#887e82
 window.inactive.button.*.hover.image.color:		#d9d6cf
 
 !! Pressed
@@ -135,11 +135,11 @@ menu.bullet.image.color:						#252321
 
 !! Active item
 menu.items.active.bg:							flat gradient splitvertical border
-menu.items.active.bg.color.splitTo:				#838a7a
-menu.items.active.bg.color:						#7d8374
-menu.items.active.bg.colorTo:					#7a8071
-menu.items.active.bg.colorTo.splitTo:			#73796c
-menu.items.active.bg.border.color:				#4c4e48
+menu.items.active.bg.color.splitTo:				#887e82
+menu.items.active.bg.color:						#81787c
+menu.items.active.bg.colorTo:					#7e7579
+menu.items.active.bg.colorTo.splitTo:			#786f73
+menu.items.active.bg.border.color:				#4e4a4b
 menu.items.active.text.color:					#f5f3ef
 menu.bullet.selected.image.color:				#f0ede5
 
@@ -174,7 +174,7 @@ osd.inactive.label.text.font:					shadow=y:shadowoffset=1:shadowtint=-40
 !! {{{ OSD buttons
 
 !! Box color
-osd.button.*.box.color:							#838a7a
+osd.button.*.box.color:							#887e82
 
 !! Text
 osd.button.*.text.color:						#1d2021
@@ -202,10 +202,10 @@ osd.button.pressed.bg.highlight:				80
 
 !! Highlighted background
 osd.hilight.bg:									flat gradient splitvertical
-osd.hilight.bg.color.splitTo:					#929a88
-osd.hilight.bg.color:							#868d7c
-osd.hilight.bg.colorTo:							#838a7a
-osd.hilight.bg.colorTo.splitTo:					#7e8576
+osd.hilight.bg.color.splitTo:					#978c91
+osd.hilight.bg.color:							#8b8185
+osd.hilight.bg.colorTo:							#887e82
+osd.hilight.bg.colorTo.splitTo:					#83797d
 
 !! Unhighlighted background
 osd.unhilight.bg:								flat gradient vertical
